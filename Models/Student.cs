@@ -4,7 +4,8 @@
     {
         public int Id { get; set; }
         public string? StudentFirstName { get; set; }
-        public String? StudentLastName { get; set; }
+
+        public string? StudentLastName { get; set; }
 
     }
 }
